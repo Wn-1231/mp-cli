@@ -1,7 +1,8 @@
 {
-  "name": "mp-cli",
-  "version": "1.0.0",
+  "name": "mp-template-cli",
+  "version": "1.0.0-alpha.2",
   "description": "通用模板脚手架",
+  "author": "wn",
   "main": "./bin/mp-cli.js",
   "bin": {
     "mp-cli": "bin/mp-cli.js"
