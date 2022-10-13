@@ -1,0 +1,23 @@
+{
+  "name": "mp-cli",
+  "version": "1.0.0",
+  "description": "通用模板脚手架",
+  "main": "./bin/mp-cli.js",
+  "bin": {
+    "mp-cli": "bin/mp-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wn-1231/mp-cli"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "consolidate": "^0.15.1",
+    "ejs": "^2.6.2",
+    "inquirer": "^7.0.0",
+    "metalsmith": "^2.3.0",
+    "minimist": "^1.2.5",
+    "ora": "^3.4.0"
+  }
+}
